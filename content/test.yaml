@@ -1,0 +1,5 @@
+id: standard-yaml-file-1
+name: My standard yaml file
+list:
+  - one
+  - two

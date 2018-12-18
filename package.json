@@ -1,0 +1,15 @@
+{
+  "name": "hapi-yaml-crud",
+  "version": "1.0.0",
+  "description": "Testing out hapi with a simple api for text storage.",
+  "main": "server",
+  "scripts": {
+    "start": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "~17.8.1"
+  }
+}
